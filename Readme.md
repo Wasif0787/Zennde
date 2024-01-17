@@ -1,4 +1,4 @@
-# Zenode Project
+# Zennode Project
 
 This repository contains Java and Python scripts for a catalog system with discount rules.
 
@@ -9,10 +9,10 @@ This repository contains Java and Python scripts for a catalog system with disco
 To run the Java program:
 
 ```bash
-git clone https://github.com/Wasif0787/Zennde.git
-cd Zennde
-javac zenode.java
-java zenode
+git clone https://github.com/Wasif0787/Zennode.git
+cd Zennode
+javac zennode.java
+java zennode
 ```
 
 ### Python
@@ -20,9 +20,9 @@ java zenode
 To run the python program:
 
 ```bash
-git clone https://github.com/Wasif0787/Zennde.git
-cd Zennde
-java zenode.py
+git clone https://github.com/Wasif0787/Zennode.git
+cd Zennode
+java zennode.py
 ```
 
 ### Requirements
